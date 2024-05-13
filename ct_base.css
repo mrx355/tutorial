@@ -223,6 +223,11 @@ textarea {
 	resize: vertical;
 }
 
+#photo1{
+	border-radius: 9px;
+	border: 3px green solid;
+	box-shadow: 2px 2px 7px #000;
+}
 
 
 /* =============================================
